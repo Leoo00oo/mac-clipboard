@@ -1,0 +1,4 @@
+# Ignore local app symlink / binaries
+Maccy.app
+*.app
+.DS_Store
